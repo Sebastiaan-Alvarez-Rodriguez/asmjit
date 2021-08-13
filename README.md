@@ -1,3 +1,21 @@
+This Repo
+------
+This repo adds meson build to the AsmJit project.  
+It can be compiled with `C++11` and up.  
+It requires `librt`.
+
+You  can use this project as a git wrap, like so:
+```
+[wrap-git]
+https://github.com/Sebastiaan-Alvarez-Rodriguez/asmjit.git
+revision = head
+```
+
+Refer to the next section for links to the original project.  
+All credits for making AsmJit to the original authors. 
+
+From here on, the regular AsmJit README follows.
+
 AsmJit
 ------
 
